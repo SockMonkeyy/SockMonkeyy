@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 ## - Where I Am
 I am currently in the infant stages of my journey of becoming a full stack web developer/programmer and would love for you to follow along my journey and career transition. Utilizing The Odin Project, Free Code Camp, and several Udemy courses my goal is become highly proficient with JavaScript, React JS, Python, and Azure! I am looking to connect and network with other awesome indviduals that may be starting thier developer/coding career or just looking to collab. I'm am always looking for motivation, constructive critism, and any tips or tricks to help me along my journey! I also love mentoring, coaching and brainstorming with people who want to do work they will be proud of.
 
+<p align="left">
 ### - Current Progress:
  - [x] HTML5
  - [x] CSS3
@@ -34,7 +35,10 @@ I am currently in the infant stages of my journey of becoming a full stack web d
  - [ ] React Js
  - [ ] Python
  - [ ] Azure
- <br><br>
+ 
+ </p>
+ <img align="right" src="https://github-readme-stats.vercel.app/api?
+</div>
 
 ## - Who Am I
 Originally from San Fernando, California. Relocated to Birmingham, Alabama in August of 2021(What a culture shock!).
