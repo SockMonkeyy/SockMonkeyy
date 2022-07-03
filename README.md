@@ -31,6 +31,7 @@ Thank you so much for taking the time to stop by! 😄
 
 Utilizing The Odin Project, Free Code Camp, and several Udemy courses my goal is become highly proficient with JavaScript, React JS, Python, and Azure!
 
+<div>
 Current Progress:
  - [x] HTML5
  - [x] CSS3
@@ -39,6 +40,8 @@ Current Progress:
  - [ ] React Js
  - [ ] Python
  - [ ] Azure
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sockmonkeyy&layout=compact&theme=dark&hide_border=true" />
+ </div>
 
 
 👯 It would be great to connect and network with other awesome indviduals that may be starting thier developer/coding career.
@@ -55,7 +58,6 @@ No activity tracked
 <!--END_SECTION:waka-->
 
 <div>
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sockmonkeyy&layout=compact&theme=dark&hide_border=true" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=sockmonkeyy&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="My github stats" /> 
  </div>
 
