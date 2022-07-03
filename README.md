@@ -1,4 +1,5 @@
 ### Hi there, I'm Wayne Richardson 👋 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+<br><br><br>
 <div>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -27,8 +28,11 @@ Here are some ideas to get you started:
 Thank you so much for taking the time to stop by! 😄
 
 🌱 I am currently in the infant stages of my journey of becoming a full stack web developer/programmer.
-
-
+<br><br>
+I am looking to connect and network with other awesome indviduals that may be starting thier developer/coding career or just looking to collab.
+<br>
+I'm am always looking for motivation, constructive critism, and any tips or tricks to help me along my journey!
+<br><br>
 Utilizing The Odin Project, Free Code Camp, and several Udemy courses my goal is become highly proficient with JavaScript, React JS, Python, and Azure!
 <br><br>
 <div>
@@ -45,12 +49,7 @@ Current Progress:
  </div>
 
 <br><br>
-👯 I am looking to connect and network with other awesome indviduals that may be starting thier developer/coding career or just looking to collab.
 
-
-🤔 I'm am always looking for motivation, constructive critism, and any tips or tricks to help me along my journey!
-
-<br><br>
 
 <!--START_SECTION:waka-->
 
