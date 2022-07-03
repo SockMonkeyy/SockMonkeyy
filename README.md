@@ -55,10 +55,9 @@ No activity tracked
 <!--END_SECTION:waka-->
 
 <div>
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sockmonkeyy&layout=compact&theme=cobalt&hide_border=true" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=sockmonkeyy&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" /> 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sockmonkeyy&layout=compact&theme=cobalt&hide_border=true" />
  </div>
-![Wayne's GitHub stats](https://github-readme-stats.vercel.app/api?username=sockmonkeyy)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <p align="center"> © 2022 SockMonkeyy, all rights reserved. Made with ❤️ for a better web. </p>
