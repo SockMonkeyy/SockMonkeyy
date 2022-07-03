@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 -->
 
 
-Thank you so much for taking the time to stop by! 😄
-
+Thank you so much for taking the time to stop by!
+<br>
 🌱 I am currently in the infant stages of my journey of becoming a full stack web developer/programmer.
 <br><br>
 I am looking to connect and network with other awesome indviduals that may be starting thier developer/coding career or just looking to collab.
@@ -35,7 +35,7 @@ I'm am always looking for motivation, constructive critism, and any tips or tric
 <br><br>
 Utilizing The Odin Project, Free Code Camp, and several Udemy courses my goal is become highly proficient with JavaScript, React JS, Python, and Azure!
 <br><br>
-<div>
+
 Current Progress:
  - [x] HTML5
  - [x] CSS3
@@ -46,7 +46,6 @@ Current Progress:
  - [ ] Azure
  <br><br>
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sockmonkeyy&layout=compact&theme=merko&hide_border=true" />
- </div>
 
 <br><br>
 
