@@ -26,7 +26,6 @@ Here are some ideas to get you started:
 
 <br><br>
 ## Thank you so much for taking the time to stop by!
-<br>
 - I am currently in the infant stages of my journey of becoming a full stack web developer/programmer.
 - I am looking to connect and network with other awesome indviduals that may be starting thier developer/coding career or just looking to collab.
 - I'm am always looking for motivation, constructive critism, and any tips or tricks to help me along my journey!
@@ -34,7 +33,7 @@ Here are some ideas to get you started:
 - Utilizing The Odin Project, Free Code Camp, and several Udemy courses my goal is become highly proficient with JavaScript, React JS, Python, and Azure!
 <br><br>
 
-Current Progress:
+# Current Progress:
  - [x] HTML5
  - [x] CSS3
  - [x] BootStrap
@@ -60,7 +59,7 @@ No activity tracked
 <br> <br>
 <div>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=sockmonkeyy&show_icons=true&include_all_commits=true&theme=merko&hide_border=true" alt="My github stats" /> 
-<img align="center" src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+<img align="right" src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 </div>
 <br>
 <br>
