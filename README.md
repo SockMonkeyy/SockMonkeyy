@@ -42,7 +42,10 @@ Current Progress:
  - [ ] Python
  - [ ] Azure
  <br><br>
+ <div>
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sockmonkeyy&layout=compact&theme=merko&hide_border=true"/>
+ <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+ </div>
 <br><br>
 
 
@@ -57,7 +60,7 @@ No activity tracked
 <br> <br>
 <div>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=sockmonkeyy&show_icons=true&include_all_commits=true&theme=merko&hide_border=true" alt="My github stats" /> 
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+
 </div>
 <br>
 <br>
