@@ -1,4 +1,12 @@
 ### Hi there, I'm Wayne Richardson 👋
+<div>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</div>
 
 <!--
 **SockMonkeyy/SockMonkeyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,18 +24,16 @@ Here are some ideas to get you started:
 -->
 Thank you so much for taking the time to stop by! ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
-🌱 I am currently in the beginning stages of my journey of becoming a full stack web developer. <br>
+🌱 I am currently in the beginning stages of my journey of becoming a full stack web developer.
+
+<br>
 Utilizing The Odin Project, Free Code Camp, and several Udemy courses my goal is become highly proficient with JavaScript, React JS, Python, and Azure!<br>
-👯 It would be great to connect and network with other awesome indviduals that may be starting thier developer/coding career. <br>
+
+👯 It would be great to connect and network with other awesome indviduals that may be starting thier developer/coding career.
+
+<br>
 🤔 I'm looking to become part of a great team environment to help push and motivate each other through the tough times.<br>
-<div>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-</div>
+
 
 <br>
 <!--START_SECTION:waka-->
