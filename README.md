@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 Thank you so much for taking the time to stop by! 😄
 
-🌱 I am currently in the beginning stages of my journey of becoming a full stack web developer.
+🌱 I am currently in the infant stages of my journey of becoming a full stack web developer/programmer.
 
 
 Utilizing The Odin Project, Free Code Camp, and several Udemy courses my goal is become highly proficient with JavaScript, React JS, Python, and Azure!
@@ -43,7 +43,7 @@ Current Progress:
 
 👯 It would be great to connect and network with other awesome indviduals that may be starting thier developer/coding career.
 
-🤔 I'm looking to become part of a great team environment to help push and motivate each other through the tough times.
+🤔 I'm am always looking for motivation, constructive critism, and any tips or tricks to help me along my journey!
 
 
 <!--START_SECTION:waka-->
@@ -55,8 +55,8 @@ No activity tracked
 <!--END_SECTION:waka-->
 
 <div>
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sockmonkeyy&layout=compact&theme=cobalt&hide_border=true" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=sockmonkeyy&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" /> 
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sockmonkeyy&layout=compact&theme=dark&hide_border=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=sockmonkeyy&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="My github stats" /> 
  </div>
 
 
