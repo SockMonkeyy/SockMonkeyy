@@ -27,9 +27,7 @@ Here are some ideas to get you started:
 Thank you so much for taking the time to stop by!
 <br>
 - I am currently in the infant stages of my journey of becoming a full stack web developer/programmer.
-<br>
 - I am looking to connect and network with other awesome indviduals that may be starting thier developer/coding career or just looking to collab.
-<br>
 - I'm am always looking for motivation, constructive critism, and any tips or tricks to help me along my journey!
 <br>
 - Utilizing The Odin Project, Free Code Camp, and several Udemy courses my goal is become highly proficient with JavaScript, React JS, Python, and Azure!
