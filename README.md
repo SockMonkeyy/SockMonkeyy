@@ -58,7 +58,7 @@ No activity tracked
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=sockmonkeyy&show_icons=true&include_all_commits=true&theme=merko&hide_border=true" alt="My github stats" /> 
 </div>
 <br>
-![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 <br>
 <br>
 <br>
