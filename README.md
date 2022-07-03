@@ -1,5 +1,5 @@
 ### Hi there, I'm Wayne Richardson 👋 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
-<br><br><br>
+<br>
 <div>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -35,7 +35,7 @@ I'm am always looking for motivation, constructive critism, and any tips or tric
 <br><br>
 Utilizing The Odin Project, Free Code Camp, and several Udemy courses my goal is become highly proficient with JavaScript, React JS, Python, and Azure!
 <br><br>
-
+<section>
 Current Progress:
  - [x] HTML5
  - [x] CSS3
@@ -46,7 +46,7 @@ Current Progress:
  - [ ] Azure
  <br><br>
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sockmonkeyy&layout=compact&theme=merko&hide_border=true" />
-
+</section>
 <br><br>
 
 
