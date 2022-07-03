@@ -37,7 +37,7 @@ I am currently in the infant stages of my journey of becoming a full stack web d
  - [ ] Azure
  
  </p>
- <img align="right" src="https://github-readme-stats.vercel.app/api?
+ <img align="right" src="https://github-readme-stats.vercel.app/api? />
 </div>
 
 ## - Who Am I
