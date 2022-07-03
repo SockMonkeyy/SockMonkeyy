@@ -40,11 +40,13 @@ Current Progress:
  - [ ] React Js
  - [ ] Python
  - [ ] Azure
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sockmonkeyy&layout=compact&theme=dark&hide_border=true" />
+ 
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sockmonkeyy&layout=compact&theme=merko&hide_border=true" />
  </div>
 
 
 👯 It would be great to connect and network with other awesome indviduals that may be starting thier developer/coding career.
+
 
 🤔 I'm am always looking for motivation, constructive critism, and any tips or tricks to help me along my journey!
 
@@ -58,7 +60,7 @@ No activity tracked
 <!--END_SECTION:waka-->
 
 <div>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=sockmonkeyy&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="My github stats" /> 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=sockmonkeyy&show_icons=true&include_all_commits=true&theme=merko&hide_border=true" alt="My github stats" /> 
  </div>
 
 
