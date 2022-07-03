@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
 Thank you so much for taking the time to stop by! 😄
 
 🌱 I am currently in the beginning stages of my journey of becoming a full stack web developer.
@@ -52,12 +54,11 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 
-
+<div>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=sockmonkeyy&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" /> 
- 
-
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sockmonkeyy&layout=compact&theme=cobalt&hide_border=true" />
-
+ </div>
+[![Wayne's GitHub stats](https://github-readme-stats.vercel.app/api?username=SockMonkeyy)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <p align="center"> © 2022 Wayne Richardson, all rights reserved. Made with ❤️ for a better web. </p>
