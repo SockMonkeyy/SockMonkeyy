@@ -52,7 +52,7 @@ No activity tracked
 <!--END_SECTION:waka-->
 
 
-
+<div>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=sockmonkeyy&show_icons=true&include_all_commits=true&theme=merko&hide_border=true" alt="My github stats" /> 
 <img align="right" src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 </div>
