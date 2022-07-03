@@ -25,12 +25,11 @@ Here are some ideas to get you started:
 -->
 
 <br><br>
-## Thank you so much for taking the time to stop by!
-- I am currently in the infant stages of my journey of becoming a full stack web developer/programmer.
-- I am looking to connect and network with other awesome indviduals that may be starting thier developer/coding career or just looking to collab.
-- I'm am always looking for motivation, constructive critism, and any tips or tricks to help me along my journey!
-- Utilizing The Odin Project, Free Code Camp, and several Udemy courses my goal is become highly proficient with JavaScript, React JS, Python, and Azure!
-<br><br>
+## Who Am I
+- I was previously a Purchasing Mananger for Marriott Hotels and most recently Honda Manufacturing of Alabama. I developed a strong curiousity for programming from my need for more powerful and automated spreadsheets to assist with my day to day task and inventory controls. My in depth experience creating Excel spreadsheats using macros and vba lead me to JavaScript.
+
+## Where I Am
+I am currently in the infant stages of my journey of becoming a full stack web developer/programmer and would love for you to follow along my journey and career transition. Utilizing The Odin Project, Free Code Camp, and several Udemy courses my goal is become highly proficient with JavaScript, React JS, Python, and Azure! I am looking to connect and network with other awesome indviduals that may be starting thier developer/coding career or just looking to collab. I'm am always looking for motivation, constructive critism, and any tips or tricks to help me along my journey! 
 
 ### Current Progress:
  - [x] HTML5
