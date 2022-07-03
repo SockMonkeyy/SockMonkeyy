@@ -29,11 +29,7 @@ Thank you so much for taking the time to stop by! 😄
 
 Utilizing The Odin Project, Free Code Camp, and several Udemy courses my goal is become highly proficient with JavaScript, React JS, Python, and Azure!
 
-
-👯 It would be great to connect and network with other awesome indviduals that may be starting thier developer/coding career.
-
-🤔 I'm looking to become part of a great team environment to help push and motivate each other through the tough times.
-
+Current Progress:
  - [x] HTML5
  - [x] CSS3
  - [x] BootStrap
@@ -42,6 +38,10 @@ Utilizing The Odin Project, Free Code Camp, and several Udemy courses my goal is
  - [ ] Python
  - [ ] Azure
 
+
+👯 It would be great to connect and network with other awesome indviduals that may be starting thier developer/coding career.
+
+🤔 I'm looking to become part of a great team environment to help push and motivate each other through the tough times.
 
 
 <!--START_SECTION:waka-->
