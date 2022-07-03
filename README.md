@@ -1,4 +1,5 @@
-### 👋 Hello World, I'm Wayne Richardson  ![visitors](https://visitor-badge.glitch.me/badge?page_id=sockmonkeyy.id)
+### 👋 Hello World, 
+### I'm Wayne Richardson  ![visitors](https://visitor-badge.glitch.me/badge?page_id=sockmonkeyy.id)
 <div>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -24,7 +25,7 @@ Here are some ideas to get you started:
 -->
 
 <br><br>
-Thank you so much for taking the time to stop by!
+## Thank you so much for taking the time to stop by!
 <br>
 - I am currently in the infant stages of my journey of becoming a full stack web developer/programmer.
 - I am looking to connect and network with other awesome indviduals that may be starting thier developer/coding career or just looking to collab.
@@ -43,8 +44,7 @@ Current Progress:
  - [ ] Azure
  <br><br>
  <div>
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sockmonkeyy&layout=compact&theme=merko&hide_border=true"/>
- <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sockmonkeyy&layout=compact&theme=merko&hide_border=true"/>
  </div>
 <br><br>
 
@@ -59,8 +59,8 @@ No activity tracked
 
 <br> <br>
 <div>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=sockmonkeyy&show_icons=true&include_all_commits=true&theme=merko&hide_border=true" alt="My github stats" /> 
-
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=sockmonkeyy&show_icons=true&include_all_commits=true&theme=merko&hide_border=true" alt="My github stats" /> 
+<img align="right" src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 </div>
 <br>
 <br>
