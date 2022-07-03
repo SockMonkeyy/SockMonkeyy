@@ -32,7 +32,16 @@ Utilizing The Odin Project, Free Code Camp, and several Udemy courses my goal is
 
 👯 It would be great to connect and network with other awesome indviduals that may be starting thier developer/coding career.
 
-🤔 I'm looking to become part of a great team environment to help push and motivate each other through the tough times.<br>
+🤔 I'm looking to become part of a great team environment to help push and motivate each other through the tough times.
+
+ - [x] HTML5
+ - [x] CSS3
+ - [x] BootStrap
+ - [ ] JavaScript
+ - [ ] React Js
+ - [ ] Python
+ - [ ] Azure
+
 
 
 <!--START_SECTION:waka-->
@@ -45,11 +54,11 @@ No activity tracked
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=sockmonkeyy&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" /> 
-  </div>
+ 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sockmonkeyy&layout=compact&theme=cobalt&hide_border=true" />
 
-<br>
+
 
 <p align="center"> © 2022 Wayne Richardson, all rights reserved. Made with ❤️ for a better web. </p>
 <p align="center">
