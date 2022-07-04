@@ -24,9 +24,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## - Where I Am
-I am currently in the infant stages of my journey of becoming a full stack web developer/programmer and would love for you to follow along my journey and career transition. Utilizing The Odin Project, Free Code Camp, and several Udemy courses my goal is become highly proficient with JavaScript, React JS, Python, and Azure! I am looking to connect and network with other awesome indviduals that may be starting thier developer/coding career or just looking to collab. I'm am always looking for motivation, constructive critism, and any tips or tricks to help me along my journey! I also love mentoring, coaching and brainstorming with people who want to do work they will be proud of.
+I am currently in the infant stages of my journey of becoming a full stack web developer/programmer and would love for you to follow along my journey and career transition. Utilizing The Odin Project, Free Code Camp, and several Udemy courses my goal is become highly proficient with JavaScript, React JS, Python, and Azure! I am looking to connect and network with other awesome indviduals that may be starting thier developing/coding career. I'm am always looking for motivation, constructive critism, and any tips or tricks to help me along my journey! I also love mentoring, coaching and brainstorming with people who want to do work they will be proud of.
 
 <p align="left">
+ <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sockmonkeyy&layout=compact&theme=merko&hide_border=true"/>
+ 
 ### - Current Progress:
  - [x] HTML5
  - [x] CSS3
@@ -36,16 +38,15 @@ I am currently in the infant stages of my journey of becoming a full stack web d
  - [ ] Python
  - [ ] Azure
  
+ 
  </p>
- <img align="right" src="https://github-readme-stats.vercel.app/api? />
-</div>
+  
+
 
 ## - Who Am I
-Originally from San Fernando, California. Relocated to Birmingham, Alabama in August of 2021(What a culture shock!).
-I began my career in procurement previously as a Purchasing Mananger for The Marriott Hotels and most recently the IT infrastructure manager with Honda Manufacturing of Alabama. I developed a strong curiousity for coding/programming from my need for more powerful and automated spreadsheets to assist with my day to day task and inventory controls. My experience creating Excel spreadsheets using macros and vba lead me to JavaScript, which is where this journey begins.
+Originally from San Fernando, California. I was Relocated to Birmingham, Alabama in August of 2021.
+My career in IT began with Verizon as a help desk agent in 2003 assisting customers brave the new world of DSL, microsoft 2002/NT, and basic network configuration. I transitioned from IT into procurement working previously as a purchasing mananger for Marriott Hotels and most recently an IT infrastructure manager with Honda Manufacturing of Alabama. I developed a strong curiousity for coding and programming from my need for more powerful and automated spreadsheets to assist with my day to day task and inventory controls. My experience creating spreadsheets using macros and vba lead to my interest in JavaScript. This ultimately renewed my passion for IT and lead me to this point in my life and career.  
 
- 
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sockmonkeyy&layout=compact&theme=merko&hide_border=true"/>
 <br><br>
 
 <!--START_SECTION:waka-->
