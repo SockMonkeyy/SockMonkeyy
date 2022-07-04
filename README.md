@@ -1,7 +1,10 @@
 <img align="center" width="100%" height="225px" src="https://github.com/SockMonkeyy/SockMonkeyy/blob/main/Blue%20and%20Yellow%20Modern%20Artisan%20Parties%20and%20Celebrations%20X-Frame%20Banner.png"/>
 
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=sockmonkeyy.id)
+
 <div align="center"
+
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
