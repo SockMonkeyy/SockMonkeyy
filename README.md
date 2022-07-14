@@ -49,7 +49,7 @@ I am currently in the infant stages of my journey of becoming a full stack web d
  <img width="500px" align="right" src="https://github.com/SockMonkeyy/SockMonkeyy/blob/main/Untitled%20design(6).png?raw=true"/>
 
 ## - Who Am I
-Originally from San Fernando, California. I Relocated to Birmingham, Alabama in August of 2021. 
+Originally from San Fernando, California. I Relocated to Birmingham, Alabama in August of 2001. 
 My career in IT began with Verizon as a help desk agent in 2003 assisting customers brave the new world of DSL, Windows 2000/NT, and basic network configuration. I transitioned from IT into procurement working previously as a purchasing mananger for Marriott Hotels and most recently an IT infrastructure manager with Honda Manufacturing of Alabama. I developed a strong curiousity for coding and programming from my need for more powerful and automated spreadsheets to assist with my day to day task and inventory controls. My experience creating spreadsheets using macros and vba lead to my interest in JavaScript. This ultimately renewed my passion for IT and lead me to this point in my life and career. I am a married father of five who loves mentoring, coaching and brainstorming with people who want to do work they will be proud of. 
 
 <br><br>
