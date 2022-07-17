@@ -57,10 +57,10 @@ My career in IT began with Verizon as a help desk agent in 2003 assisting custom
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   16 hrs 29 mins  ██████████▓░░░░░░░░░░░░░░   42.23 %
-HTML         16 hrs 24 mins  ██████████▓░░░░░░░░░░░░░░   42.02 %
-CSS          6 hrs 1 min     ████░░░░░░░░░░░░░░░░░░░░░   15.43 %
-Other        7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+JavaScript   16 hrs 14 mins  ██████████████▒░░░░░░░░░░   57.05 %
+HTML         10 hrs 40 mins  █████████▒░░░░░░░░░░░░░░░   37.52 %
+CSS          1 hr 28 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.20 %
+Other        3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 ```
 
 <!--END_SECTION:waka-->
