@@ -55,22 +55,13 @@ My career in IT began with Verizon as a help desk agent in 2003 assisting custom
 <br><br>
 
 <!--START_SECTION:waka-->
-name: Work Stats Readme
 
-on:
-  workflow_dispatch:
-  schedule:
-    # Runs every 2 hours
-    - cron: "0 */2 * * *"
+```text
+JavaScript   21 hrs 12 mins  ████████████▓░░░░░░░░░░░░   50.08 %
+HTML         20 hrs 18 mins  ████████████░░░░░░░░░░░░░   47.98 %
+Other        39 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
+```
 
-jobs:
-  update-readme:
-    name: Update this repo's README
-    runs-on: ubuntu-latest
-    steps:
-      - uses: athul/waka-readme@master
-        with:
-          WAKATIME_API_KEY: ${{55868b8c-a30e-4c0d-bdd7-596f02064a88}}
 <!--END_SECTION:waka-->
 
 <br><br>
