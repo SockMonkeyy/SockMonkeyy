@@ -57,7 +57,7 @@ My career in IT began with Verizon as a help desk agent in 2003 assisting custom
 <!--START_SECTION:waka-->
 
 ```text
-HTML   44 mins         █████████████████████████   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
