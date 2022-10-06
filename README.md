@@ -57,12 +57,11 @@ My career in IT began with Verizon as a help desk agent in 2003 assisting custom
 <!--START_SECTION:waka-->
 
 ```text
-Python       17 hrs 4 mins   ███████████████▓░░░░░░░░░   62.74 %
-HTML         7 hrs 52 mins   ███████▒░░░░░░░░░░░░░░░░░   28.93 %
-CSS          46 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 %
-Text         31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
-Markdown     23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
-Other        20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
+Python       19 hrs 33 mins  ███████████████████░░░░░░   75.66 %
+HTML         4 hrs 39 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.00 %
+Text         32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
+Markdown     23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
+Other        19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
 ```
 
 <!--END_SECTION:waka-->
